@@ -104,6 +104,8 @@ Now you have:
 **SRE Agent Setup:**
 1. **Create agent** - ([Azure SRE Agent Usage Guide](https://learn.microsoft.com/en-us/azure/sre-agent/usage))
 2. **Map GitHub repo** that you cloned this to: **https://github.com/dm-chelupati/grubify.git**
+
+this is a branch for testing the capabilities of Azure SRE Agent
 3. **Connect Service Now** to your SRE agent
 4. **Setup incident handler** with custom instructions for automated diagnosis and mitigation
 5. **Simulate memory leak** using the deployed application endpoints
